@@ -23,7 +23,7 @@
     "APPLICATION_THEME": "default",
     "project_version": "sprint24",
     "nativeContainerProperties": {
-        "isModified": true,
+        "isModified": false,
         "isEnableJSContainer": false,
         "isEnableJSContainerAndroid": false,
         "isEnableJSContaineriOS": false
