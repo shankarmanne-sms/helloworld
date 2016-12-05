@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "57dp"
+        "value": "58dp"
     },
     "_margin_": [
         6,
@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "s3519f01ee764bf2beb8cfa1d6ac3e45",
-    "_text_": "Signup",
+    "_text_": "Login",
     "_top_": {
         "type": "string",
-        "value": "65dp"
+        "value": "177dp"
     },
     "_width_": {
         "type": "string",
@@ -37,12 +37,13 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "sa0827553e2c43dd8f830d1fa18f498c",
-    "id": "Button0946ec2c646174d",
+    "id": "Button004f0de29d77f4e",
     "info": null,
     "isvisible": true,
-    "kuid": "710d6bf424974e79a864cd71c267bd62",
+    "kuid": "9d92d96e59e34e39acfdd5b77600307d",
     "name": "kony.ui.Button",
     "parent": "Form1",
     "pf": "Form1",
-    "wType": "Button"
+    "wType": "Button",
+    "zindex": 1
 }
