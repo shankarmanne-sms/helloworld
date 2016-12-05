@@ -1,2 +1,2 @@
-var i = 10;
-console.log(i);
+var iVal = 10;
+console.log(iVal);
