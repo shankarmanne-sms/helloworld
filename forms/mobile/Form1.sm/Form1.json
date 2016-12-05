@@ -25,7 +25,10 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Button0946ec2c646174d",
+        "Button004f0de29d77f4e"
+    ],
     "containerweight": 100,
     "currentLocale": null,
     "desktopweb": {
