@@ -1,2 +1,3 @@
-var i = 10;
-console.log(i+10);
+var iVal = 10;
+console.log(iVal + 10);
+
